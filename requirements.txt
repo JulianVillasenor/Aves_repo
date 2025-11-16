@@ -1,0 +1,6 @@
+numpy
+matplotlib
+tensorflow
+tf2onnx
+onnx
+onnxruntime

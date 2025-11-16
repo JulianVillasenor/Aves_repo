@@ -1,0 +1,26 @@
+# Ignorar modelos pesados
+*.onnx
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.tflite
+*.pt
+*.pth
+
+# Carpeta donde guardas modelos convertidos
+modelo2/
+
+# Entornos virtuales (por si luego creas uno)
+venv/
+.env/
+.env.bak/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
